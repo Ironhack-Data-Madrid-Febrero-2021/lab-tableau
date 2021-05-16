@@ -1,0 +1,2 @@
+Mi cuenta aplicación de Tableau si que aparece logeada a mi perfil pero no hay manera de guardar nada. 
+He subido el .twb espero que no pete
